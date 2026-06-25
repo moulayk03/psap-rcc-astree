@@ -1,0 +1,10 @@
+# Testé et validé avec les versions ci-dessous (juin 2026).
+# Les bornes minimales garantissent la compatibilité avec les fonctionnalités
+# utilisées (st.cache_data, st.dataframe avec Styler, etc.)
+
+streamlit>=1.38
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+openpyxl>=3.1
+matplotlib>=3.7
